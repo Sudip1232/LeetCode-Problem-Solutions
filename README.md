@@ -104,7 +104,7 @@ Some common complexities used in solutions:
 Add your LeetCode profile link here:
 
 ```bash
-https://leetcode.com/
+https://leetcode.com/u/SudipGhosh01/
 ```
 
 ---
